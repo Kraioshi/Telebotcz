@@ -94,6 +94,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         response: str = await handle_response(update, context)
         print(f'Bot response: {response}')  # Log the bot response
 
+
 # Errors
 async def error(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print(f'Update {update} caused error {context.error}')
