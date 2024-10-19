@@ -33,13 +33,13 @@ def create_app() -> Application:
 # Commands
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text('Hello! I was made to aid you with Czech language!\n'
-                                    'Type /play to start practicing.\n'
-                                    'Type /help to get an illusion of help.')
+                                     'Type /play to start practicing.\n'
+                                     'Type /help to get an illusion of help.')
 
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("This is a very helpful help command. Helps a lot, doesn't it?\n"
-                                    "Type /play to start practicing. ")
+                                     "Type /play to start practicing.")
 
 
 async def play_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -57,8 +57,7 @@ async def pick_game_question(update: Update, context: ContextTypes.DEFAULT_TYPE)
         await update.message.reply_text(f"Translate to Czech: {question}")
 
 
-# Responses 💩💩💩
-
+# Responses
 async def handle_response(update: Update, context: ContextTypes.DEFAULT_TYPE) -> str:
     processed_text: str = update.message.text.lower()
 
@@ -116,11 +115,3 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def error(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print(f'Update {update} caused error {context.error}')
 
-app = Application.builder().token(TOKEN).build()
-
-
-if __name__ == '__main__':
-    print('Starting Bot!')
-    app = create_app()
-    print('Polling...')
-    app.run_polling(poll_interval=3)
