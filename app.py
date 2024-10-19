@@ -6,5 +6,8 @@ load_dotenv()
 
 app = create_app()
 
-if __name__ == "__main__":
+def main():
     app.run_polling()
+
+if __name__ == "__main__":
+    main()
