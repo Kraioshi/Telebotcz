@@ -1384,3 +1384,496 @@ popálený,обожжённый
 spálený,сожжённый
 zkažený,испорченный
 odřený,ободранный
+jídelní lístek,меню
+číšník,официант
+"číšnice,servírka",официантка
+omeleta,омлет
+vrchní,"метрдотель, старший официант"
+tatarská omáčka,соус тартар
+účet,счёт
+příloha,гарнир
+předkrm,"холодное блюдо, закуска"
+pohanka,гречка
+salát,салат
+rýže,рис
+vývar,"бульон, отвар"
+zmrzlina,мороженое
+guláš,гуляш
+řízek,шницель
+knedlík,кнедлик
+zákusek,десерт
+dort,торт
+palačinka,блинчик
+čokoláda,шоколад
+cesta,путь
+hlavní jídlo,главное блюдо
+nápoj,"напиток, питьё"
+bezmasé jídlo,блюдо без мяса
+pohár,"бокал, стакан"
+džus,сок
+čaj,чай
+chuť,вкус
+rolka,рулетик
+roštěnka,антрекот (мясо между
+polévka,суп
+vařený,вареный
+pečený,печеный
+smažený,жареный
+dušený,тушеный
+pivo,пиво
+víno,вино
+vejce,яйцо
+spropitné,чаевые
+hranolky,картофель фри
+těstoviny,"макаронные изделия, паста"
+krokety,крокеты
+grilovaný,жареный (на гриле)
+připálený,подгорелый
+míchaný,перемешанный
+oslazený,сладкий
+život,жизнь
+styl,стиль
+žánr,жанр
+malíř,художник
+kreslíř,рисовальщик
+ilustrátor,илюстратор
+architektura,архитектура
+hudba,музыка
+kytara,гитара
+flétna,флейта
+housle,скрипка
+trumpeta,труба
+sochař,скульптор
+skladba,композиция
+architekt,архитектор
+činohra,драма
+tanec,танец
+tanečník,танцовщик
+zpěv,пение
+zpěvák,певец
+komedie,комедия
+tragédie,трагедия
+pantomima,пантомима
+povídka,"рассказ, новелла"
+skladatel,композитор
+detektivka,детектив
+herec,актер
+pohádka,сказка
+spisovatel,писатель
+báseň,стихотворение
+bajka,басня
+umění,искусство
+malířství,живопись
+sochařství,скульптура
+dílo,"произведение, творчество"
+sousoší,скульптурный комплекс
+piáno,пианино
+představení,представление
+sledování,наблюдение
+režisér,режиссер
+fotograf,фотограф
+hudebník,музыкант
+hudební nástroj,музыкальный инструмент
+klavír,рояль
+buben,барабан
+román,роман
+cestopis,путевые записки
+rozvoj,развитие
+pravěk,"начало, исток"
+součást,"деталь, составная часть"
+potřeba,потребность
+výstava,выставка
+socha,статуя
+středověk,средневековье
+vzdělanost,расстояние
+národ,народ
+doba,"время, момент"
+útlak,"гнет, угнетение"
+podmínka,условие
+rozvoj,развитие
+počet,количество
+obyvatel,житель
+význam,значение
+zájem,интерес
+samozřejmost,несомненность
+vesnice,деревня
+domácnost,(домашнее) хозяйство
+kapsa,карман
+hospoda,"паб, трактир"
+rámec,"рамки, пределы, границы"
+secese,стиль модерн
+sbor,"состав, собрание"
+deska,"доска, плита"
+překladatel,переводчик
+novinář,журналист
+šatna,гардероб
+fronta,очередь
+osud,"судьба, участь"
+varhany,орган (муз. инструмент)
+voják,"солдат, боец"
+plakát,плакат
+zahájení,открытие
+návrh,"концепт, предложение"
+hnízdo,гнездо
+vítěz,победитель
+ocenění,"признание, одобрение"
+přelet,перелет
+slavík,соловей
+klarinet,кларнет
+jednání,"действие, переговоры, акт"
+dlouholetý,многолетний
+skvělý,замечательный
+nejvzdělanější,"просвещенный,"
+veřejný,публичный
+podobný,"походий, подобный"
+nejvýznamnější,"важный, знаменательный"
+kukaččí,кукушечий
+zlatý,золотой
+sport,спорт
+běh,бег
+hod,"бросок, метание"
+oštěp,копье
+disk,диск
+skok,прыжок
+fotbal,футбол
+míč,мяч
+hráč,игрок
+tým,команда
+výška,высота
+tyč,"шест, штанга"
+branka,ворота
+kopačky,бутса
+síť,сетка
+košíková,баскетбол
+cyklistika,велоспорт
+raketa,ракетка
+brusle,коньки
+hokejka,клюшка (для хоккея)
+dres,(спортивная) форма
+volejbal,волейбол
+helma,шлем
+lyže,лыжи
+koš,корзина
+tenis,теннис
+hůlka,палка (для лыж)
+sjezdovka,горнолыжная трасса
+tenisák,теннисный мяч
+pálka,(бейсбольная) бита
+kurt,корт
+hokej,хоккей
+puk,шайба
+slalom,слалом
+sjezd,съезд
+ping pong,пинг-понг
+florbal,флобол
+házená,гандбол
+kanoistika,гребля на каноэ
+kánoe,каноэ
+hřiště,(спортивная) площадка
+plavání,плавание
+kolo,велосипед
+lyžování,катание на лыжах
+parašutismus,парашютный спорт
+bruslení,катание на коньках
+padák,парашют
+atletika,атлетика
+koule,шар
+dálka,"расстояние, даль, дистанция"
+krasobruslení,фигурное катание
+potápění,"дайвинг, подводное плавание"
+horolezectví,скалолазание
+disciplína,дисциплина
+závod,"гонки, пробег"
+dostihová dráha,ипподром
+fanoušek,фанат
+kopaná,футбол
+lákadlo,"искушение, соблаз"
+okruh,"круг, область"
+plochá dráha,"спидвей, трековые"
+překážka,"препятствие, барьер"
+příkop,"канава, ров"
+závodiště,"ипподром, стадион"
+překážkový dostih,бег с препятствиями
+tretra,шиповка
+skokanský můstek,лыжный трамплин
+vítěz,победитель
+soutěž,соревнование
+výzva,вызов
+kruh,круг
+světadíl,"материк, контитнент"
+mistrovství,"чемпионат, первенство"
+hvězda,звезда
+ročník,"класс, курс"
+pohár,кубок
+úspěch,успех
+konat se,"происходить, состояться"
+prohlásit,"заявить, признать"
+pořádat,"устраивать, организовать"
+zvítězit,победить
+navštívit,"навестить, посетить"
+překonat,преодолеть
+patřit,принадлежать
+získat,"получить, добиться успеха"
+vést,вести
+vyhrát,"выиграть, победить"
+závodit,соревноваться
+ukončit,"завершить, закончить"
+zúčastnit se,принять участие
+náročný,"требовательный, сложный"
+nejvyšší,наивысший
+spokojený,довольный
+světový,мировой
+nejlepší,самый лучший
+nejoblíbenější,самый любимый
+největší,самый большой
+další,следующий
+nejvýznamnější,"важный, знаменательный"
+první,первый
+nejtěžší,непосильный
+horský,горный
+nejúspěšnější,самый успешный
+následující,дальнейший
+jízda,езда
+blatník,"крыло, щиток"
+doprava,транспорт
+zastavení,остановка (движение)
+dopravní prostředek,транспортные
+dopravní značka,дорожный знак
+auto,автомобиль
+vlak,поезд
+rychlík,скорый поезд
+osobní vlak,пассажирский поезд
+autobus,автобус
+taxík,такси
+metro,метро
+tramvaj,трамвай
+loď,лодка
+kolo,велосипед
+letadlo,самолет
+stání,стоянка
+vozovka,проезжая часть дороги
+směr,направление
+zákaz,запрет
+přednost,преимущество
+tramvajenka,(сезонный) проездной билет
+místenka,посадочный  билет  (билет  с
+revizor,ревизор
+průvodčí,"кондуктор, проводник"
+úschovna,камера хранения (багажа)
+zavazadlo,багаж
+nástupiště,платформа
+dálnice,автомагистраль
+vzducholoď,дирижабль
+nádraží,вокзал
+balón,воздушный шар
+jízdní řád,расписание
+vrtulník,вертолет
+traktor,трактор
+letiště,аэропорт
+letenka,авиабилет
+poznávací značka,номерной знак
+letecká společnost,авиакомпания
+karosérie,кузов
+nárazník,бампер
+blinkr,поворотник
+výfuk,выхлопная труба
+letuška,стюардесса
+sleva,скидка
+pokladna,касса
+strach,страх
+koníček,хобби
+posilovna,тренажерный зал
+činnost,деятельность
+pozadí,"задний план, фон"
+radost,радость
+povolání,профессия
+sběratelství,коллекционирование
+kapela,оркестр
+sběratel,коллекционер
+skladba,композиция
+rybaření,рыбалка
+rybář,рыбак
+sbor,состав
+fronta,очередь
+houbaření,сбор грибов
+potlesk,аподисменты
+houbař,грибник
+zákulisí,закулисье
+chovatelství,животноводство
+upoutávka,анонс
+chovatel,животновод
+předprodej,предварительная продажа
+pěstitelství,растениеводство
+zážitek,впечатление
+pěstitel,растениевод
+zprávy,"сообщения, известия"
+prázdniny,выходные
+chalupa,дача
+program,программа
+přehled,представление (о чем-то)
+přinášet,приносить
+litovat,жалеть
+sbírat,"собирать, коллекционировать"
+potěšit se,обрадоваться
+rybařit,рыбачить
+chovat,разводить
+pěstovat,выращивать
+konat se,происходить
+vynechat,пропустить
+koukat,"смотреть, наблюдать"
+líbit se,нравиться
+následovat,следовать
+trvat,"длиться, продолжаться"
+sejít se,встретиться
+dít se,происходить
+přepínat,переключать
+pochopit,понять
+štvát,травить
+upravovat,приводить в порядок
+přerušit,остановить
+měnit,менять
+nastěhovat se,"посещать, навещать"
+vytvářet,"создавать, творить"
+stačit,"хватить, справиться"
+bavit,интересовать
+legenda,легенда
+sever,север
+majetek,"имущество, собственность"
+kopec,холм
+krajina,местность
+překvapení,удивление
+kmen,ствол
+oheň,огонь
+vlast,родина
+bůh,бог
+doba,период времени
+kámen,камень
+chata,дача
+základy,основы
+nepřítel,враг
+století,век
+vládce,правитель
+zakladatel,основатель
+vláda,власть
+hádka,ссора
+trůn,трон
+vražda,убийство
+rozum,"ум, разум"
+zavraždění,умышленное убийство
+vůdce,"вождь, лидер"
+válečník,"воин, боец"
+rod,род
+panovník,правитель
+vymření,вымирание
+meč,меч
+rys,рысь
+půvab,"обояние, шарм"
+pleť,кожа
+příslušník,"член, последователь"
+rozhodnout se,решить
+odpovědět,ответить
+hledat,искать
+zažít,"пережить, испытать"
+zastavit se,остановиться
+znamenat,значить
+odpočívat,отдыхать
+políbit,поцеловать
+děkovat,поблагодарить
+prohrát,проиграть
+vykřiknout,вскрикнуть
+hádat se,ссориться
+prohlédnout si,просмотреть
+přestat,перестать
+zůstat,остаться
+vzít si,вступить в брак
+vybrat si,выбрать
+vystřídat se,смениться
+vládnout,господствовать
+dosahovat,достигать
+orat,"пахать, вспахивать"
+zavraždit,"убить, покончить"
+najít,найти
+smát se,улыбаться
+pokračovat,продолжать
+měřit,мерить
+výsledek,результат
+válka,война
+rozpad,распад
+součást,(составная) часть
+menšina,меньшинство
+oblast,область
+pohraničí,пограничная область
+soužití,"сожительство, сосуществование"
+moc,мощь
+odstoupení,"отставка, увольнение"
+území,"территория, область, зона"
+dohoda,"договор, соглашение"
+představitel,представитель
+vojsko,войско
+vítězství,победа
+spojenec,союзник
+odsun,"перемещение, депортация"
+koncentrační  tábor,концентрационный
+oběť,жертва
+vězení,тюрьма
+pokus,попытка
+hnutí,"движение, волнение"
+smlouva,договор
+úpadek,упадок
+vstup,"вход, вступление"
+fronta,очередь
+bony,"купон, талон"
+vlastnictví,"собственность, владение"
+opisování,переписывание
+chudoba,бедность
+vědec,ученый
+školačka,школьница
+plakát,плакат
+vlajka,флаг
+nazývaný,(так) называемый
+rudý,"красный, алый"
+obranný,"защитный, оборотный"
+včetně,"включительно, в том числе"
+tehdejší,тогдашний
+těsně,"плотно, вплотную"
+překvapený,удивленный
+přestože,"хоть, несмотря на то что"
+státní,государственный
+zejména,главным образом
+tajný,тайный
+kolem,около
+rozloha,площадь
+počet,количество
+jih,юг
+sever,север
+východ,восток
+západ,запад
+znak,знак
+orlice,орлица
+bankovka,бумажные деньги
+nížina,"низина, низменность"
+jezero,озеро
+rybník,пруд
+louka,луг
+pole,поле
+pohoří,горы
+přístav,порт
+klenot,"драгоценность, сокровище"
+přítok,приток
+lípa,липа
+list,лист
+mince,монета
+sousedit,граничить
+plout,плыть
+pramenit,"брать начало, вытекать"
+střední,средний
+čtvereční,квадратный
+sousední,соседний
+korunovační,коронационный
+pramen,родник
+tok,течение
+stékat se,стекать
+pokračovat,продолжать
+slepý,слепой
+rozmanitý,многообразный
+významný,"важный, знаменательный"
