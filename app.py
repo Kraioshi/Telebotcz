@@ -1,9 +1,10 @@
 import os
 from dotenv import load_dotenv
-from telegram.ext import Application
-from bot import app  # Replace `your_bot_file` with the name of your bot's main file (without .py)
+from bot import create_app
 
 load_dotenv()
+
+app = create_app()
 
 if __name__ == "__main__":
     app.run_polling()

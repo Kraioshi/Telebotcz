@@ -13,6 +13,23 @@ BOT_USERNAME: Final = '@slovicko_bot'
 word_list = read_csv(PATH)
 
 
+def create_app() -> Application:
+    app = Application.builder().token(TOKEN).build()
+
+    # Commands
+    app.add_handler(CommandHandler('start', start_command))
+    app.add_handler(CommandHandler('help', help_command))
+    app.add_handler(CommandHandler('play', play_command))
+
+    # Messages
+    app.add_handler(MessageHandler(filters.TEXT, handle_message))
+
+    # Errors
+    app.add_error_handler(error)
+
+    return app
+
+
 # Commands
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text('Hello! I was made to aid you with Czech language!\n'
@@ -102,19 +119,6 @@ async def error(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 if __name__ == '__main__':
     print('Starting Bot!')
-    app = Application.builder().token(TOKEN).build()
-
-    # Commands
-    app.add_handler(CommandHandler('start', start_command))
-    app.add_handler(CommandHandler('help', help_command))
-    app.add_handler(CommandHandler('play', play_command))
-
-    # Messages
-    app.add_handler(MessageHandler(filters.TEXT, handle_message))
-
-    # Errors
-    app.add_error_handler(error)
-
-    # Update check
+    app = create_app()
     print('Polling...')
     app.run_polling(poll_interval=3)
